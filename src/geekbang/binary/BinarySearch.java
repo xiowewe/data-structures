@@ -1,4 +1,4 @@
-package geekbang;
+package geekbang.binary;
 
 /**
  * 二分查找 O(logn)：
